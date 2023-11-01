@@ -6,7 +6,7 @@ This project Conducts data analysis of FDIC's Failed Bank List, identifying tren
 
 ## For this:
 
-Install the **requirement.txt** file from the repo **Failed-Bank-list-Data-Analyzer-USA-Government-Project** Then the python script as  [code.py](https://github.com/shashangka-upadhyaya/Failed-Bank-list-Data-Analyzer-USA-Government-Project/blob/main/code.py) gives the real insight of **Data-Analyzer-USA-Government-Project**. I had **train** the dataset from **FDIC** i.e [FDIC failed bank list  Dataset](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/)
+Install the **requirement.txt** file from the repo **Failed-Bank-list-Data-Analyzer-USA-Government-Project** Then the python script as  [code.py](https://github.com/shashangka-upadhyaya/Failed-Bank-list-Data-Analyzer-USA-Government-Project/blob/main/code.py) gives the real insight of **Data-Analyzer-USA-Government-Project**. I had **taken** the dataset from **FDIC** i.e [FDIC failed bank list  Dataset](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/)
 
 ### Results
 **1. Reorganizing the table to make the State and City as the indexes of the table. Displaying the first 20 rows of the new table :**
