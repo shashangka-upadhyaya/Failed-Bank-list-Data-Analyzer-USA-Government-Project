@@ -193,6 +193,6 @@ pd.concat([updatedTable[(updatedTable.index.get_level_values('City') == 'Kansas 
 # In[24]:
 
 
-#How many failed banks' names include the word National?
+# Finding How many failed banks' names include the word National?
 len(updatedTable[updatedTable['Bank Name'].str.contains("National")])
 
